@@ -1,2 +1,2 @@
 # code-for-masters-thesis
-Code for a Master’s Thesis
+This repository contains the implementated code for my Master’s Thesis
